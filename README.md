@@ -27,14 +27,15 @@ TO DO: *THIS IS AN EXAMPLE FOR HOW TO DO THE DATA DICTIONARY, REPEAT FOR ALL ENT
 *EXAMPLE IMAGE, DELETE WHEN FINISHED* ![image](https://github.com/user-attachments/assets/75509222-3188-4f22-8777-84274ed7e9b2)
 
 Query #1: Retrieve top 5 customers by total spending, including order details and average spending per order.
+![image](https://github.com/user-attachments/assets/63fcf7ac-a470-4d3b-83f1-1e78ab96dc7f)
 
 ![00b405d7-400f-4c71-8f26-e88d63355ace](https://github.com/user-attachments/assets/5041b08d-5584-43b4-ad1d-2e6c4b7ba7b2)
-
 
 Q1 Managerial Perspective: This query provides valuable insights into the behavior and value of high-spending customers. By identifying the top customers based on total spending, managers can focus on retaining these loyal and profitable individuals through targeted marketing campaigns, personalized offers, or loyalty program enhancements. Additionally, metrics like average order value and largest order help refine strategies to encourage higher spending per transaction. 
 
 
 Query #2: Find the top 3 products by total revenue, with details on supplier, category, and inventory availability.
+![image](https://github.com/user-attachments/assets/f0b7d7c6-8bdd-4b26-bb0f-4f0c60e5ca92)
 
 ![2a151c4d-0975-48b0-b1f2-c6d3718bcd8a](https://github.com/user-attachments/assets/98fcddbf-52fe-46d7-bdf2-a94b7630eece)
 
