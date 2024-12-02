@@ -9,7 +9,7 @@ Group 9
 4. Suhayb Ahmed
 
 ## Problem Description:
-This database 
+*Base it off the first slide, although more in depth*
 
 
 ## Data Model 
