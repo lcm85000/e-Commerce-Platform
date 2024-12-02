@@ -22,7 +22,7 @@ TO DO: *UPDATE MODEL WITH SUGGESTED CHANGES*
 
 ## Data Dictionary 
 TO DO: *THIS IS AN EXAMPLE FOR HOW TO DO THE DATA DICTIONARY, REPEAT FOR ALL ENTITIES IN THE DATA MODEL, DELETE WHEN DONE!*
-![image](https://github.com/user-attachments/assets/8ede5bf4-c3b9-4237-b0c0-c5eadb5178f6)
+![image](https://github.com/user-attachments/assets/66474dc0-bd61-47c9-a967-4f19e10fcf52)
 
 ## Queries 
 
