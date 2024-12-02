@@ -9,7 +9,7 @@ Group 9
 4. Suhayb Ahmed
 
 ## Problem Description:
-*Base it off the first slide, although more in depth*
+TO DO: *Base the description off the first slide of the presentation, although more in depth*
 
 
 ## Data Model 
@@ -39,7 +39,6 @@ Query #2: Find the top 3 products by total revenue, with details on supplier, ca
 ![2a151c4d-0975-48b0-b1f2-c6d3718bcd8a](https://github.com/user-attachments/assets/98fcddbf-52fe-46d7-bdf2-a94b7630eece)
 
 Q2 Managerial Perspective: This query highlights the most profitable products and their associated suppliers, categories, and stock levels. This information enables managers to prioritize inventory planning, supplier relationships, and product promotion strategies. Products with high revenue but low stock may indicate a need for restocking or renegotiating supply contracts. Additionally, the inclusion of discount rate filters ensures focus on sustainable revenue growth rather than heavily discounted products, which may affect margins.
-
 
 
 Query #3: 
