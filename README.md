@@ -14,7 +14,7 @@ This database
 
 
 ## Data Model 
-Explanation of the Data Model:
+Explanation of the Data Model: (UPDATE MODEL WITH SUGGESTED CHANGES)
 
 ![2954ab4f-6b56-4e31-920c-a65194ef97dc](https://github.com/user-attachments/assets/d60194a2-c36d-4287-9e9f-9bb58ff4ae37)
 
