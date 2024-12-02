@@ -25,6 +25,7 @@ TO DO: *THIS IS AN EXAMPLE FOR HOW TO DO THE DATA DICTIONARY, REPEAT FOR ALL ENT
 ![image](https://github.com/user-attachments/assets/66474dc0-bd61-47c9-a967-4f19e10fcf52)
 
 ## Queries 
+*EXAMPLE IMAGE, DELETE WHEN FINISHED* ![image](https://github.com/user-attachments/assets/75509222-3188-4f22-8777-84274ed7e9b2)
 
 Query #1: Retrieve top 5 customers by total spending, including order details and average spending per order.
 
