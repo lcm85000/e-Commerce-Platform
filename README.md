@@ -29,11 +29,14 @@ TO DO: *THIS IS AN EXAMPLE FOR HOW TO DO THE DATA DICTIONARY, REPEAT FOR ALL ENT
 
 Query #1: Retrieve top 5 customers by total spending, including order details and average spending per order.
 
+ ![image](https://github.com/user-attachments/assets/75509222-3188-4f22-8777-84274ed7e9b2)
+
 Q1 Managerial Perspective: This query provides valuable insights into the behavior and value of high-spending customers. By identifying the top customers based on total spending, managers can focus on retaining these loyal and profitable individuals through targeted marketing campaigns, personalized offers, or loyalty program enhancements. Additionally, metrics like average order value and largest order help refine strategies to encourage higher spending per transaction. 
 
 
 Query #2: Find the top 3 products by total revenue, with details on supplier, category, and inventory availability.
 
+ ![image](https://github.com/user-attachments/assets/75509222-3188-4f22-8777-84274ed7e9b2)
 Q2 Managerial Perspective: This query highlights the most profitable products and their associated suppliers, categories, and stock levels. This information enables managers to prioritize inventory planning, supplier relationships, and product promotion strategies. Products with high revenue but low stock may indicate a need for restocking or renegotiating supply contracts. Additionally, the inclusion of discount rate filters ensures focus on sustainable revenue growth rather than heavily discounted products, which may affect margins.
 
 
@@ -56,6 +59,17 @@ Q5 Managerial Perspective:
 ## Tableau Visualizations
 
 Tableau Visualization #1: 
+Top 30 selling products, any products with 0 sales are not listed
+This chart sorts all of the products sold in a given time period based on quantity sold and how much that product earned. 
+
+Most Sold - Portable SSD (16 units)
+Least Sold - Mechanical Keyboard (3 units) 
+Highest Earning - Smartphone ($4000)
+Lowest Earning - Smartphone Stand ($91)
+
+Bar chart is used because numerical values are being compared and it makes it easy to see the best selling items
+
+ ![image](https://github.com/user-attachments/assets/75509222-3188-4f22-8777-84274ed7e9b2)
 
 Tableau Visualization #2:
 
