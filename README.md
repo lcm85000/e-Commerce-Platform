@@ -3,8 +3,8 @@
 Group 9
 
 ## Team Members 
-1. Lance Moxley
-2. Neil Meza
+1. Lance Moxley @lcm85000
+2. Neil Meza @neilmeza
 3. Ronit Subramanian
 4. Suhayb Ahmed
 
