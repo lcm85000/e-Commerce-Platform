@@ -64,10 +64,10 @@ Tableau Visualization #1:
 Top 30 selling products, any products with 0 sales are not listed
 This chart sorts all of the products sold in a given time period based on quantity sold and how much that product earned. 
 
-Most Sold - Portable SSD (16 units)
-Least Sold - Mechanical Keyboard (3 units) 
-Highest Earning - Smartphone ($4000)
-Lowest Earning - Smartphone Stand ($91)
+- Most Sold - Portable SSD (16 units)
+- Least Sold - Mechanical Keyboard (3 units)
+- Highest Earning - Smartphone ($4000)
+- Lowest Earning - Smartphone Stand ($91)
 
 Bar chart is used because numerical values are being compared and it makes it easy to see the best selling items
 ![4543dbc7-ffb9-43e5-a6cb-5852720a7d4b](https://github.com/user-attachments/assets/594c8230-01f3-499a-be2f-963a875e0d95)
