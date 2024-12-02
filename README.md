@@ -1,5 +1,4 @@
 # MIST4610 Group Project #2 - eCommerce Platform
-
 ## Team Name 
 Group 9
 
