@@ -14,13 +14,15 @@ This database
 
 
 ## Data Model 
-Explanation of the Data Model: (UPDATE MODEL WITH SUGGESTED CHANGES)
+Explanation of the Data Model: 
+TO DO: *UPDATE MODEL WITH SUGGESTED CHANGES*
 
 ![2954ab4f-6b56-4e31-920c-a65194ef97dc](https://github.com/user-attachments/assets/d60194a2-c36d-4287-9e9f-9bb58ff4ae37)
 
 
 ## Data Dictionary 
-
+TO DO: *THIS IS AN EXAMPLE FOR HOW TO DO THE DATA DICTIONARY, REPEAT FOR ALL ENTITIES IN THE DATA MODEL, DELETE WHEN DONE!*
+![image](https://github.com/user-attachments/assets/8ede5bf4-c3b9-4237-b0c0-c5eadb5178f6)
 
 ## Queries 
 
