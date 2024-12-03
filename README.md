@@ -149,7 +149,8 @@ Reviews include a rating, comment, and the date of the review, linking products 
 
 **Tableau Visualization #1:** 
 
-![image](https://github.com/user-attachments/assets/314ae607-1f51-4930-a080-86785f883a41)
+![image](https://github.com/user-attachments/assets/9a238cb3-ecdc-4e22-a3b7-894369ab4a1e)
+
 
 **Description:**
 This Tableau chart visualizes top-selling products based on two measures: quantity sold (the bar chart in purple) and subtotal revenue (the line chart in orange). 
