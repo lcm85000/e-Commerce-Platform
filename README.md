@@ -24,7 +24,54 @@ By leveraging this database, entrepreneurs can focus more on growth while the sy
 
 ## Data Model 
 Explanation of the Data Model: 
-TO DO: *UPDATE MODEL WITH SUGGESTED CHANGES*
+
+This data model represents a relational structure for an e-commerce management system. It supports the storage and organization of various entities, including customers, orders, products, reviews, inventory, payments, shipments, suppliers, and categories. Below is a breakdown of how the data is organized and the relationships between entities:
+
+1. Customer and Order Relationship:
+The Customer entity contains information about individual customers, such as name, email, and loyalty points.
+Each customer can place multiple orders, represented by the Order entity. This relationship is captured through the customerID in the Order table.
+2. Order and OrderItem Relationship:
+Orders are linked to individual products via the OrderItem entity. Each order can have multiple products, and this relationship is captured by the orderID and productID in OrderItem.
+The OrderItem entity also stores details about the quantity of products ordered, subtotal, and unit price.
+3. Product and Category Relationship:
+The Product entity stores details about items available for purchase, such as name, price, stock quantity, and discount rates.
+Products are categorized using the Category entity, allowing a hierarchical structure of categories with a parent-child relationship (parentCategoryID).
+4. Product and Inventory Relationship:
+Inventory levels for each product are tracked using the Inventory entity. This includes information about restock dates, quantity added, and cost price.
+The Supplier entity is linked to the inventory, storing details about the suppliers who provide the products.
+5. Order and Payment Relationship:
+Payments for orders are recorded in the Payment entity. This includes details such as payment method, amount, status, and the associated order (orderID).
+Each order can have one corresponding payment record.
+6. Order and Shipment Relationship:
+The Shipment entity tracks the shipping details for each order, including shipment date, tracking number, carrier, and estimated delivery date.
+Each order can have one associated shipment record.
+7. Customer and Review Relationship:
+Customers can leave reviews for products they have purchased, which is captured by the Review entity.
+Reviews include a rating, comment, and the date of the review, linking products and customers.
+What the Data Model Supports:
+Customer Management:
+Tracks customer details and loyalty points.
+Order Processing:
+Captures order details, associated items, and total amounts.
+Product Management:
+Stores product information, pricing, and categories.
+Inventory and Supplier Management:
+Tracks stock levels, restock dates, and supplier details.
+Payment and Shipment Tracking:
+Records payment information and shipping details for orders.
+Customer Feedback:
+Stores product reviews and ratings from customers.
+What the Data Model Does Not Support:
+Advanced Marketing Features:
+No structure for promotions, campaigns, or loyalty programs beyond loyalty points.
+Detailed Service-Level Inventory:
+Does not track detailed inventories like batch numbers or expiration dates for specific stock items.
+Order Returns or Refunds:
+No entity to handle order returns or refunds.
+Multi-Vendor Marketplaces:
+Does not support multiple vendors selling the same product.
+Customer Interaction Records:
+No mechanism to track customer inquiries or support requests.
 
 ![2954ab4f-6b56-4e31-920c-a65194ef97dc](https://github.com/user-attachments/assets/d60194a2-c36d-4287-9e9f-9bb58ff4ae37)
 
