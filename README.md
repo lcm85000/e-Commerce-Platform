@@ -184,6 +184,8 @@ The chart’s style is suitable for decision-making, as it helps inventory manag
 
 
 Tableau Visualization #3:
+![image](https://github.com/user-attachments/assets/355ba9b8-865f-46dc-9df8-0518297fa85d)
+
 
 
 ## Database Information
