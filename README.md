@@ -104,7 +104,7 @@ This chart sorts all of the products sold in a given time period based on quanti
 - Lowest Earning - Smartphone Stand ($91)
 
 Bar chart is used because numerical values are being compared and it makes it easy to see the best selling items
-![4543dbc7-ffb9-43e5-a6cb-5852720a7d4b](https://github.com/user-attachments/assets/594c8230-01f3-499a-be2f-963a875e0d95)
+![image](https://github.com/user-attachments/assets/314ae607-1f51-4930-a080-86785f883a41)
 
 
 
