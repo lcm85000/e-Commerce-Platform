@@ -201,7 +201,8 @@ This chart emphasizes the proportional differences between categories, which is 
 Ultimately this chart seems to indicate that most customers are at least mostly satisfied with their products, as indicated by the high percentage of 4 and 5 star reviews. 
 
 **Dashboard:**
-![image](https://github.com/user-attachments/assets/152231c3-724f-42a6-9513-d207d5c44235)
+![image](https://github.com/user-attachments/assets/8f0edf3f-047a-4434-8cbf-ce51761eba84)
+
 
 
 ## Database Information
