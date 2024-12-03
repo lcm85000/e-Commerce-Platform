@@ -141,7 +141,7 @@ Q5 Managerial Perspective:
 
 ## Tableau Visualizations
 
-Tableau Visualization #1: 
+**Tableau Visualization #1:** 
 
 ![image](https://github.com/user-attachments/assets/314ae607-1f51-4930-a080-86785f883a41)
 
@@ -159,9 +159,23 @@ Other products, such as the Gaming Headset, have low sales and lower revenue, in
 Items generating the highest revenue may have premium pricing or higher demand in their category. 
 The platform can use this data to focus on promoting high-revenue products or improving the sales of low-performing items with high potential. 
 
-Tableau Visualization #2:
+**Tableau Visualization #2:**
 
 ![image](https://github.com/user-attachments/assets/1e73e69a-82f9-44ac-8c7b-63222dc53f64)
+
+**Description:**
+This scatter plot visualizes the relationship between stock availability (measured by "Quantity Added") and sales performance (measured by "Subtotal"). 
+Each dot represents a specific product, with the x-axis showing the quantity of stock available and the y-axis showing the total sales.
+The color represents different suppliers, helping to categorize products by their source.
+
+**Justification:**
+Scatter plots are ideal for showing the correlation between two continuous variables, in this case, stock levels and sales performance. 
+This chart allows viewers to quickly spot patterns, such as whether higher stock correlates with higher sales.
+It enables easy identification of outliers, such as the Smartphone that is manufactured by Green Earth Goods. 
+By encoding supplier information in colors, the chart provides an additional layer of analysis. 
+This helps viewers see how different suppliers' products contribute to stock and sales trends.
+The chart’s style is suitable for decision-making, as it helps inventory managers and sales teams balance stock levels with demand, identify products that may need restocking, or uncover inventory inefficiencies.
+
 
 Tableau Visualization #3:
 
