@@ -126,7 +126,7 @@ Reviews include a rating, comment, and the date of the review, linking products 
 ![image](https://github.com/user-attachments/assets/eed8fe8e-8221-4389-8cac-320456dbb84c)
 ![image](https://github.com/user-attachments/assets/e2c89fe4-f367-4998-98ee-6f8939cec8c7)
 
-**Q3 Managerial Perspective:** 
+**Q3 Managerial Perspective:** This query provides a comprehensive view of delayed shipments, highlighting key details such as customer names, order values, carrier performance, and the extent of delays. By correlating shipment delays with customer payments and order totals, managers can evaluate the financial and reputational impact of these delays. The data enables a focused approach to improving carrier reliability and addressing customer dissatisfaction proactively.
 
 
 ### Query #4: For each product category, calculate the total revenue generated, the total quantity sold, and the average revenue per product. Include only categories that have contributed more than $7000 in revenue.
@@ -134,7 +134,7 @@ Reviews include a rating, comment, and the date of the review, linking products 
 ![image](https://github.com/user-attachments/assets/92a02a16-08c6-402e-b5b9-623eb7c14491)
 
 
-**Q4 Managerial Perspective:** 
+**Q4 Managerial Perspective:** This query offers a breakdown of revenue generation by product category, highlighting the most profitable ones while excluding low performers. By analyzing total revenue, quantity sold, and average revenue per product, managers can make informed decisions about resource allocation, marketing efforts, and product development to strengthen high-performing categories
 
 
 ### Query #5: List suppliers who have replenished inventory for multiple products in the past year, including supplier name, the number of products replenished, and the total quantity added.
@@ -142,8 +142,7 @@ Reviews include a rating, comment, and the date of the review, linking products 
 ![image](https://github.com/user-attachments/assets/c4fe6b19-0ffd-4828-9d5e-ffcb9224067f)
 
 
-**Q5 Managerial Perspective:** 
-
+**Q5 Managerial Perspective:** This query evaluates supplier performance based on recent stock replenishment activity, which is crucial for maintaining adequate inventory levels and meeting customer demand. Identifying suppliers who replenish stock frequently and in high quantities allows managers to foster stronger partnerships with reliable suppliers while addressing potential gaps with less active ones.
 
 ## Tableau Visualizations
 
