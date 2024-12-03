@@ -114,8 +114,6 @@ No mechanism to track customer inquiries or support requests.
 
 
 ## Queries 
-*EXAMPLE IMAGE, DELETE WHEN FINISHED* ![image](https://github.com/user-attachments/assets/75509222-3188-4f22-8777-84274ed7e9b2)
-
 ### Query #1: Retrieve top 5 customers by total spending, including order details and average spending per order.
 ![image](https://github.com/user-attachments/assets/63fcf7ac-a470-4d3b-83f1-1e78ab96dc7f)
 
