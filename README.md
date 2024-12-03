@@ -96,12 +96,8 @@ Q5 Managerial Perspective:
 
 Tableau Visualization #1: 
 
-- Most Sold - Portable SSD (16 units)
-- Least Sold - Mechanical Keyboard (3 units)
-- Highest Earning - Smartphone ($4000)
-- Lowest Earning - Smartphone Stand ($91)
-
 ![image](https://github.com/user-attachments/assets/314ae607-1f51-4930-a080-86785f883a41)
+
 Description:
 This Tableau chart visualizes top-selling products based on two measures: quantity sold (the bar chart in purple) and subtotal revenue (the line chart in orange). 
 Products like Portable SSD have the highest quantities sold, while others like Gaming Mouse or Graphics Card have lower quantities. 
