@@ -182,12 +182,22 @@ By encoding supplier information in colors, the chart provides an additional lay
 This helps viewers see how different suppliers' products contribute to stock and sales trends.
 The chart’s style is suitable for decision-making, as it helps inventory managers and sales teams balance stock levels with demand, identify products that may need restocking, or uncover inventory inefficiencies.
 
-
 Tableau Visualization #3:
 ![image](https://github.com/user-attachments/assets/d5f00e39-023a-43d3-a9f6-64d19ae43269)
 
+**Description:**
+This is a pie chart showing the distribution of customer ratings. Each segment of the chart represents a percentage of ratings within specific ranges, as indicated by the color-coded scale on the right.
+The chart shows percentages of customer ratings divided into distinct categories or ranges, which are based on 1 to 5 star ratings, given by customers.
+The largest segment, accounting for 42.86%, is colored brown and accounts for the 5 star reviews. 
+Other segments; the 32.86% in yellow and 21.43% in orange, are also represented proportionally and account for the 3 and 4 star reviews respectively.
+The smallest segment, contains 2.86% of all of the reviews and accounts for the 2 star reviews. 
+In this data set, there are no 1 star reviews, however they would also be represented accordingly in the pie chart, based on the legend. 
 
-
+**Justification:**
+Pie charts are ideal for showing parts of a whole, making it easy to visually compare the relative sizes of each category or rating range.
+Since there are only a few categories of ratings, a pie chart provides a straightforward and clean way to display the data.
+This chart emphasizes the proportional differences between categories, which is critical for understanding the overall trend in customer feedback.
+Ultimately this chart seems to indicate that most customers are at least mostly satisfied with their products, as indicated by the high percentage of 4 and 5 star reviews. 
 
 ## Database Information
 Name of the database: cs_lcm85000
