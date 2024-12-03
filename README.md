@@ -148,7 +148,6 @@ Reviews include a rating, comment, and the date of the review, linking products 
 ## Tableau Visualizations
 
 **Tableau Visualization #1:** 
-
 ![image](https://github.com/user-attachments/assets/9a238cb3-ecdc-4e22-a3b7-894369ab4a1e)
 
 
@@ -167,8 +166,8 @@ Items generating the highest revenue may have premium pricing or higher demand i
 The platform can use this data to focus on promoting high-revenue products or improving the sales of low-performing items with high potential. 
 
 **Tableau Visualization #2:**
+![image](https://github.com/user-attachments/assets/f6f05487-0d93-42fa-bbe5-5d3cbb8867b8)
 
-![image](https://github.com/user-attachments/assets/1e73e69a-82f9-44ac-8c7b-63222dc53f64)
 
 **Description:**
 This scatter plot visualizes the relationship between stock availability (measured by "Quantity Added") and sales performance (measured by "Subtotal"). 
@@ -184,7 +183,8 @@ This helps viewers see how different suppliers' products contribute to stock and
 The chart’s style is suitable for decision-making, as it helps inventory managers and sales teams balance stock levels with demand, identify products that may need restocking, or uncover inventory inefficiencies.
 
 Tableau Visualization #3:
-![image](https://github.com/user-attachments/assets/d5f00e39-023a-43d3-a9f6-64d19ae43269)
+![image](https://github.com/user-attachments/assets/1bab6f40-6c77-4f7b-b584-4329abd937a7)
+
 
 **Description:**
 This is a pie chart showing the distribution of customer ratings. Each segment of the chart represents a percentage of ratings within specific ranges, as indicated by the color-coded scale on the right.
@@ -200,6 +200,7 @@ Since there are only a few categories of ratings, a pie chart provides a straigh
 This chart emphasizes the proportional differences between categories, which is critical for understanding the overall trend in customer feedback.
 Ultimately this chart seems to indicate that most customers are at least mostly satisfied with their products, as indicated by the high percentage of 4 and 5 star reviews. 
 
+**Dashboard:**
 ![image](https://github.com/user-attachments/assets/152231c3-724f-42a6-9513-d207d5c44235)
 
 
