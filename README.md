@@ -199,5 +199,8 @@ Since there are only a few categories of ratings, a pie chart provides a straigh
 This chart emphasizes the proportional differences between categories, which is critical for understanding the overall trend in customer feedback.
 Ultimately this chart seems to indicate that most customers are at least mostly satisfied with their products, as indicated by the high percentage of 4 and 5 star reviews. 
 
+![image](https://github.com/user-attachments/assets/152231c3-724f-42a6-9513-d207d5c44235)
+
+
 ## Database Information
 Name of the database: cs_lcm85000
