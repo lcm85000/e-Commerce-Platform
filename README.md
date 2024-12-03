@@ -30,8 +30,33 @@ TO DO: *UPDATE MODEL WITH SUGGESTED CHANGES*
 
 
 ## Data Dictionary 
-TO DO: *THIS IS AN EXAMPLE FOR HOW TO DO THE DATA DICTIONARY, REPEAT FOR ALL ENTITIES IN THE DATA MODEL, DELETE WHEN DONE!*
-![image](https://github.com/user-attachments/assets/66474dc0-bd61-47c9-a967-4f19e10fcf52)
+### Customer Table
+![image](https://github.com/user-attachments/assets/4dce55d3-4c16-46af-a438-2e6ff3149c42)
+
+### Product Table
+![image](https://github.com/user-attachments/assets/dadad371-0fad-445a-92e9-7c5e71dec333)
+
+### Order Table
+![image](https://github.com/user-attachments/assets/84d4a04d-4e65-4c58-8560-7e8bfc4c02ad)
+
+### OrderItem Table
+![image](https://github.com/user-attachments/assets/9e672031-5045-43da-bb14-0fdcc816527e)
+
+### Category Table
+![image](https://github.com/user-attachments/assets/8f61d7bc-7ce2-49f2-af9a-ad656b31f5bd)
+
+### Payment Table
+![image](https://github.com/user-attachments/assets/7bfa8e2d-5350-4f5e-96bf-83d8b56ebf12)
+
+### Shipment Table
+![image](https://github.com/user-attachments/assets/602cf1cb-79f7-4165-94b8-8ee72253b4f5)
+
+### Supplier Table
+![image](https://github.com/user-attachments/assets/4308f5fd-0a47-43dc-90f6-ed77e59d6a13)
+
+### Inventory Table
+![image](https://github.com/user-attachments/assets/d1c84cf0-de4c-469b-a9f3-de35ad327470)
+
 
 ## Queries 
 *EXAMPLE IMAGE, DELETE WHEN FINISHED* ![image](https://github.com/user-attachments/assets/75509222-3188-4f22-8777-84274ed7e9b2)
