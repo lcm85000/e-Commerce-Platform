@@ -95,18 +95,23 @@ Q5 Managerial Perspective:
 ## Tableau Visualizations
 
 Tableau Visualization #1: 
-Top 30 selling products, any products with 0 sales are not listed
-This chart sorts all of the products sold in a given time period based on quantity sold and how much that product earned. 
 
 - Most Sold - Portable SSD (16 units)
 - Least Sold - Mechanical Keyboard (3 units)
 - Highest Earning - Smartphone ($4000)
 - Lowest Earning - Smartphone Stand ($91)
 
-Bar chart is used because numerical values are being compared and it makes it easy to see the best selling items
 ![image](https://github.com/user-attachments/assets/314ae607-1f51-4930-a080-86785f883a41)
+Description:
+This Tableau chart visualizes top-selling products based on two measures: quantity sold (the bar chart in purple) and subtotal revenue (the line chart in orange). 
+Products like Portable SSD have the highest quantities sold, while others like Gaming Mouse or Graphics Card have lower quantities. 
+Products with high quantities do not always have the highest revenue, most notably the Portable SSD, which has the highest quantity but comparatively low revenue compared to some of the other products.
 
-
+Justification: (add why for bar and line chart)
+Products like the Gaming Chair and 4K Monitor generate much higher revenue ($4,000 and $2,500 respectively) despite lower quantities sold, which suggests higher unit prices. 
+Other products, such as the Gaming Headset, have low sales and lower revenue, indicating they are less popular or more niche. 
+Items generating the highest revenue may have premium pricing or higher demand in their category. 
+The platform can use this data to focus on promoting high-revenue products or improving the sales of low-performing items with high potential. 
 
 Tableau Visualization #2:
 
