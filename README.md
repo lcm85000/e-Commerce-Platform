@@ -108,35 +108,43 @@ No mechanism to track customer inquiries or support requests.
 ## Queries 
 *EXAMPLE IMAGE, DELETE WHEN FINISHED* ![image](https://github.com/user-attachments/assets/75509222-3188-4f22-8777-84274ed7e9b2)
 
-Query #1: Retrieve top 5 customers by total spending, including order details and average spending per order.
+**Query #1:** Retrieve top 5 customers by total spending, including order details and average spending per order.
 ![image](https://github.com/user-attachments/assets/63fcf7ac-a470-4d3b-83f1-1e78ab96dc7f)
 
 ![00b405d7-400f-4c71-8f26-e88d63355ace](https://github.com/user-attachments/assets/5041b08d-5584-43b4-ad1d-2e6c4b7ba7b2)
 
-Q1 Managerial Perspective: This query provides valuable insights into the behavior and value of high-spending customers. By identifying the top customers based on total spending, managers can focus on retaining these loyal and profitable individuals through targeted marketing campaigns, personalized offers, or loyalty program enhancements. Additionally, metrics like average order value and largest order help refine strategies to encourage higher spending per transaction. 
+**Q1 Managerial Perspective:** This query provides valuable insights into the behavior and value of high-spending customers. By identifying the top customers based on total spending, managers can focus on retaining these loyal and profitable individuals through targeted marketing campaigns, personalized offers, or loyalty program enhancements. Additionally, metrics like average order value and largest order help refine strategies to encourage higher spending per transaction. 
 
 
-Query #2: Find the top 3 products by total revenue, with details on supplier, category, and inventory availability.
+**Query #2:** Find the top 3 products by total revenue, with details on supplier, category, and inventory availability.
 ![image](https://github.com/user-attachments/assets/f0b7d7c6-8bdd-4b26-bb0f-4f0c60e5ca92)
 
 ![2a151c4d-0975-48b0-b1f2-c6d3718bcd8a](https://github.com/user-attachments/assets/98fcddbf-52fe-46d7-bdf2-a94b7630eece)
 
-Q2 Managerial Perspective: This query highlights the most profitable products and their associated suppliers, categories, and stock levels. This information enables managers to prioritize inventory planning, supplier relationships, and product promotion strategies. Products with high revenue but low stock may indicate a need for restocking or renegotiating supply contracts. Additionally, the inclusion of discount rate filters ensures focus on sustainable revenue growth rather than heavily discounted products, which may affect margins.
+**Q2 Managerial Perspective:** This query highlights the most profitable products and their associated suppliers, categories, and stock levels. This information enables managers to prioritize inventory planning, supplier relationships, and product promotion strategies. Products with high revenue but low stock may indicate a need for restocking or renegotiating supply contracts. Additionally, the inclusion of discount rate filters ensures focus on sustainable revenue growth rather than heavily discounted products, which may affect margins.
 
 
-Query #3: 
+**Query #3:** Retrieve a list of delayed shipments, including the customer's name, order total, carrier name, shipment delay in days, and total amount paid for the order.
+![image](https://github.com/user-attachments/assets/eed8fe8e-8221-4389-8cac-320456dbb84c)
+![image](https://github.com/user-attachments/assets/e2c89fe4-f367-4998-98ee-6f8939cec8c7)
 
-Q3 Managerial Perspective: 
-
-
-Query #4: 
-
-Q4 Managerial Perspective: 
+**Q3 Managerial Perspective:** 
 
 
-Query #5: 
+**Query #4:** For each product category, calculate the total revenue generated, the total quantity sold, and the average revenue per product. Include only categories that have contributed more than $7000 in revenue.
+![image](https://github.com/user-attachments/assets/96ba9dcc-14eb-4ef6-a536-79da67faab6c)
+![image](https://github.com/user-attachments/assets/92a02a16-08c6-402e-b5b9-623eb7c14491)
 
-Q5 Managerial Perspective: 
+
+**Q4 Managerial Perspective:** 
+
+
+**Query #5:** List suppliers who have replenished inventory for multiple products in the past year, including supplier name, the number of products replenished, and the total quantity added.
+![image](https://github.com/user-attachments/assets/dd7ca599-948c-4919-930e-55d404cac6a8)
+![image](https://github.com/user-attachments/assets/c4fe6b19-0ffd-4828-9d5e-ffcb9224067f)
+
+
+**Q5 Managerial Perspective:** 
 
 
 ## Tableau Visualizations
