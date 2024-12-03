@@ -145,12 +145,12 @@ Tableau Visualization #1:
 
 ![image](https://github.com/user-attachments/assets/314ae607-1f51-4930-a080-86785f883a41)
 
-Description:
+**Description:**
 This Tableau chart visualizes top-selling products based on two measures: quantity sold (the bar chart in purple) and subtotal revenue (the line chart in orange). 
 Products like Portable SSD have the highest quantities sold, while others like Gaming Mouse or Graphics Card have lower quantities. 
 Products with high quantities do not always have the highest revenue, most notably the Portable SSD, which has the highest quantity but comparatively low revenue compared to some of the other products.
 
-Justification:
+**Justification:**
 A combination of a bar graph and a line graph is appropriate for this visualization because it allows for a clear comparison of two distinct but related metrics: quantity sold (bar graph) and subtotal revenue (line graph).
 The bar graph is good for showing categorical data and making comparisons across products. 
 The line graph highlights trends or patterns in monetary performance and provides a continuous visual narrative of revenue changes.	
@@ -160,6 +160,8 @@ Items generating the highest revenue may have premium pricing or higher demand i
 The platform can use this data to focus on promoting high-revenue products or improving the sales of low-performing items with high potential. 
 
 Tableau Visualization #2:
+
+![image](https://github.com/user-attachments/assets/1e73e69a-82f9-44ac-8c7b-63222dc53f64)
 
 Tableau Visualization #3:
 
