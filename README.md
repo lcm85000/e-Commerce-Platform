@@ -73,7 +73,8 @@ Does not support multiple vendors selling the same product.
 Customer Interaction Records:
 No mechanism to track customer inquiries or support requests.
 
-![2954ab4f-6b56-4e31-920c-a65194ef97dc](https://github.com/user-attachments/assets/d60194a2-c36d-4287-9e9f-9bb58ff4ae37)
+![GROUP PROJECT 2 PNG](https://github.com/user-attachments/assets/d575bb14-3660-4900-8374-1e961adf472f)
+
 
 
 ## Data Dictionary 
