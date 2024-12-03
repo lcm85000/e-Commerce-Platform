@@ -23,7 +23,7 @@ By leveraging this database, entrepreneurs can focus more on growth while the sy
 
 
 ## Data Model 
-Explanation of the Data Model: 
+**Explanation of the Data Model: **
 
 This data model represents a relational structure for an e-commerce management system. It supports the storage and organization of various entities, including customers, orders, products, reviews, inventory, payments, shipments, suppliers, and categories. Below is a breakdown of how the data is organized and the relationships between entities:
 
