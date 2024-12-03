@@ -56,41 +56,30 @@ Customers can leave reviews for products they have purchased, which is captured 
 Reviews include a rating, comment, and the date of the review, linking products and customers.
 
 **What the Data Model Supports:**
-**Customer Management:**
 
-Tracks customer details and loyalty points.
-**Order Processing:**
+**Customer Management:** Tracks customer details and loyalty points.
 
-Captures order details, associated items, and total amounts.
-**Product Management:**
+**Order Processing:** Captures order details, associated items, and total amounts.
 
-Stores product information, pricing, and categories.
-**Inventory and Supplier Management:**
+**Product Management:** Stores product information, pricing, and categories.
 
-Tracks stock levels, restock dates, and supplier details.
-**Payment and Shipment Tracking:**
+**Inventory and Supplier Management:** Tracks stock levels, restock dates, and supplier details.
 
-Records payment information and shipping details for orders.
-**Customer Feedback:**
+**Payment and Shipment Tracking:** Records payment information and shipping details for orders.
 
-Stores product reviews and ratings from customers.
+**Customer Feedback:** Stores product reviews and ratings from customers.
 
 **What the Data Model _Does Not_ Support:**
-**Advanced Marketing Features:**
 
-No structure for promotions, campaigns, or loyalty programs beyond loyalty points.
-**Detailed Service-Level Inventory:**
+**Advanced Marketing Features:** No structure for promotions, campaigns, or loyalty programs beyond loyalty points.
 
-Does not track detailed inventories like batch numbers or expiration dates for specific stock items.
-**Order Returns or Refunds:**
+**Detailed Service-Level Inventory:** Does not track detailed inventories like batch numbers or expiration dates for specific stock items.
 
-No entity to handle order returns or refunds.
-**Multi-Vendor Marketplaces:**
+**Order Returns or Refunds:** No entity to handle order returns or refunds.
 
-Does not support multiple vendors selling the same product.
-**Customer Interaction Records:**
+**Multi-Vendor Marketplaces:** Does not support multiple vendors selling the same product.
 
-No mechanism to track customer inquiries or support requests.
+**Customer Interaction Records:** No mechanism to track customer inquiries or support requests.
 
 ![GROUP PROJECT 2 PNG](https://github.com/user-attachments/assets/d575bb14-3660-4900-8374-1e961adf472f)
 
